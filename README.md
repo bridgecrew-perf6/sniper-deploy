@@ -13,7 +13,7 @@ after clicking this
 Visit the environment variables tab.
 
 
-Set the key as settings and paste this inside the value text box; proceed to edit your configuration.
+Set the key as settings and paste the below code inside the value text box; proceed to edit your configuration.
 After you are done editing your configuration, click Add new secret. (You can go back to that tab whenever to change your settings)
 
 <pre>{
