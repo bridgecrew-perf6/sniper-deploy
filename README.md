@@ -1,9 +1,18 @@
 SNIPER BY : https://github.com/slow
 
-Visit the environment variables tab.
-Image
+click below badge
 
-Set the key as settings and paste <pre>{
+[![Run on Repl.it](https://repl.it/badge/github/maanya125/sniper-deploy)](https://repl.it/github/maanya125/sniper-deploy)
+
+after clicking this
+
+Visit the environment variables tab.
+
+
+Set the key as settings and paste this inside the value text box; proceed to edit your configuration.
+After you are done editing your configuration, click Add new secret. (You can go back to that tab whenever to change your settings)
+
+<pre>{
    tokens: {
       // Main Token (ex: Nz...)
       main: '',
@@ -136,9 +145,8 @@ Set the key as settings and paste <pre>{
          inviteFail: false
       }
    }
-} </pre> inside the value text box; proceed to edit your configuration.
+} </pre> 
 
-After you are done editing your configuration, click Add new secret. (You can go back to that tab whenever to change your settings)
-Image
 
-[![Run on Repl.it](https://repl.it/badge/github/maanya125/sniper-deploy)](https://repl.it/github/maanya125/sniper-deploy)
+
+
